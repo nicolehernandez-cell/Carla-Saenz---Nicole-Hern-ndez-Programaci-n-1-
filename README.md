@@ -37,5 +37,3 @@ Si bien la implementación actual cumple con los requerimientos (especialmente l
 - **Excepciones (`try-catch`):** Reemplazaría los simples mensajes de error o retornos por defecto por un manejo de excepciones formal (`std::runtime_error`), especialmente en las operaciones de lectura/escritura de archivos (`fileio`) y asignaciones de memoria.
 
 ---
-
-Este README sirve como evidencia del trabajo realizado y como base para futuras mejoras del sistema.
