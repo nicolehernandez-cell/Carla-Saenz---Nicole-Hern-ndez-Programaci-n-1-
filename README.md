@@ -4,8 +4,8 @@ Informe de Proyecto
 
 Programadores:
 
-Carla Saenz
-Nicole Hernandez
+Carla Antonella Saenz
+Nicole Mariana Hernandez
 Asignatura: Programación 1
 Fecha de entrega: 19/06/2026
 
